@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  background-color: #CD5C5C;
+}
+.TopContainer{
+  margin-top: 50px;
+}
+.MiddleContainer{
+  margin-top: 100px;
+  text-align: left;
+}
+.header{
+position:absolute;
+left:0;
+top: 0;
+display:inline-block;
+background-color: purple;
+width: 100pc;
+height: 30px;
+}
+.Jiraya{
+  float:right;
+position:relative;
+right: 580px;
+width: 15pc;
+
+}
+.links{
+  display:inline;
+  position:relative;
+  right: 600px;
+}
+a{
+  text-decoration:none;
+  color: white;
+  margin-left: 80px;
+}
+a:hover{
+  color: red;
+}
